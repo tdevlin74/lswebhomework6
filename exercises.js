@@ -2,10 +2,14 @@
 
 function multiplyByTen(num) {
   //return num after multiplying it by ten
+  return num * 10
 }
+
+
 
 function subtractFive(num) {
   //return num after subtracting five
+  return num - 5;
 }
 
 function areSameLength(str1, str2) {
